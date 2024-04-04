@@ -1,7 +1,7 @@
 ---
 # Banner
 banner:
-  title: "Keeping your buisness technology in sync"
+  title: "Keeping your business technology in sync"
   content: "Each company boasts its unique technological infrastructure. What stays consistent is that with the growth of your business, the complexity of your technology also rises. Situated in Minneapolis, Minnesota, NETTECX Managed IT Services provides comprehensive technology support to small- and medium-sized (SMB) organizations, catering to their needs at local, regional, national, and international scales."
   image: "/images/banner.png"
   button:
