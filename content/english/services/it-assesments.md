@@ -48,4 +48,4 @@ Ensure regulatory compliance and adherence to industry standards with our IT Com
 
 Ready to gain a deeper understanding of your IT landscape? Contact NETTECX today to schedule a consultation. Let us be your trusted partner in optimizing and securing your IT environment.
 
-{{< button label="Contact" link="/contact" style="solid" >}}
+{{< button label="Contact" link="contact/" style="solid" >}}

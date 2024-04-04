@@ -49,4 +49,4 @@ Make informed decisions about your IT infrastructure with our expert consulting 
 
 Ready to transform your IT infrastructure for improved performance and efficiency? Contact NETTECX today for a consultation. Let us be your partner in building a robust and future-ready IT environment.
 
-{{< button label="Contact" link="/contact" style="solid" >}}
+{{< button label="Contact" link="contact/" style="solid" >}}
