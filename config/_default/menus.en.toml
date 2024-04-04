@@ -1,0 +1,59 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[main]]
+name = "About"
+url = "about/"
+weight = 2
+
+[[main]]
+name = "Services"
+hasChildren = true
+weight = 3
+
+[[main]]
+parent = "Services"
+name = "IT Assesments"
+url = "services/it-assesments/"
+weight = 1
+
+[[main]]
+parent = "Services"
+name = "Cybersecurity"
+url = "services/cybersecurity/"
+weight = 2
+
+[[main]]
+parent = "Services"
+name = "Infrastructure"
+url = "services/infrastructure/"
+weight = 3
+
+[[main]]
+parent = "Services"
+name = "Support"
+url = "services/support/"
+weight = 4
+
+[[main]]
+parent = "Services"
+name = "Cloud Solutions"
+url = "services/cloud-solutions/"
+weight = 5
+
+[[main]]
+name = "Contact"
+url = "contact/"
+weight = 5
+
+# footer menu
+
+[[footer]]
+name = "Privacy Policy"
+url = "privacy-policy/"
+weight = 3
