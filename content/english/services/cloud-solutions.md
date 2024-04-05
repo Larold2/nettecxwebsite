@@ -57,4 +57,4 @@ Strategize your cloud journey with our expert Cloud Consulting services. Our con
 
 Ready to harness the power of the cloud for your business? Contact NETTECX today to schedule a consultation. Let us be your trusted partner in navigating the cloud landscape and unlocking the full potential of your IT infrastructure.
 
-{{< button label="Contact" link="contact/" style="solid" >}}
+{{< button label="Contact" link="https://nettecx.com/contact/" style="solid" >}}

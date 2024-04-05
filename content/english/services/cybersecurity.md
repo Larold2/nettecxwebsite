@@ -63,4 +63,4 @@ Your employees are your first line of defense. Equip them with the knowledge and
 
 Take the first step towards a stronger future by reaching out to NETTECX for expert consultation. With our guidance, let's build a resilient and future-ready IT environment together. Contact us today to begin the journey towards fortified cybersecurity and optimized operations.
 
-{{< button label="Contact" link="contact/" style="solid" >}}
+{{< button label="Contact" link="https://nettecx.com/contact/" style="solid" >}}

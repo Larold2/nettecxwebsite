@@ -58,4 +58,4 @@ Businesses operate around the clock, and so does our support. With our 24/7 Supp
 
 When it comes to reliable IT support, NETTECX is your trusted partner. Contact us today to discuss your support needs and how we can help keep your IT environment running seamlessly.
 
-{{< button label="Contact" link="contact/" style="solid" >}}
+{{< button label="Contact" link="https://nettecx.com/contact/" style="solid" >}}
