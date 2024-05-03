@@ -1,9 +1,9 @@
 ---
 title: "IT Assesments"
 # meta title
-meta_title: ""
+meta_title: "IT Assesments"
 # meta description
-description: "This is meta description"
+description: "Elevate your IT landscape with NETTECX's Assessment Services. From cybersecurity and infrastructure health to risk mitigation and compliance, our comprehensive assessments offer actionable insights for informed decision-making and strategic planning."
 # save as draft
 draft: false
 ---

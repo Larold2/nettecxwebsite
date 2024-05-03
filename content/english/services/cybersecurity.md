@@ -3,7 +3,7 @@ title: "Cybersecurity"
 # meta title
 meta_title: ""
 # meta description
-description: "This is meta description"
+description: "Protect your business data with NETTECX's tailored cybersecurity solutions. From cutting-edge technology to proactive monitoring, safeguard your organization against evolving cyber threats. Trust our expertise and customer-centric approach to keep your digital assets secure in today's digital age."
 # save as draft
 draft: false
 ---

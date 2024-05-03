@@ -1,9 +1,9 @@
 ---
 title: "Infrastructure"
 # meta title
-meta_title: ""
+meta_title: "Infrastructure"
 # meta description
-description: "This is meta description"
+description: "Discover how NETTECX's Infrastructure Services empower businesses with scalable, secure, and reliable IT solutions. From cloud migration to network architecture and data center management, we offer expert consulting and solutions tailored to your evolving needs."
 # save as draft
 draft: false
 ---

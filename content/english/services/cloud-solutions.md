@@ -1,9 +1,9 @@
 ---
 title: "Cloud Solutions"
 # meta title
-meta_title: ""
+meta_title: "Cloud Solutions"
 # meta description
-description: "This is meta description"
+description: "Unlock the potential of your business with NETTECX's comprehensive Cloud Services. From seamless migration to robust security and tailored solutions, empower your enterprise with scalability, innovation, and expert support. Embrace the cloud strategically for success in today's digital landscape."
 # save as draft
 draft: false
 ---

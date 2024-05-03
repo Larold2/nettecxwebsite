@@ -1,9 +1,12 @@
 ---
 title: "IT Support"
 # meta title
-meta_title: ""
+meta_title: "IT Support"
 # meta description
-description: "This is meta description"
+description: "Discover NETTECX's comprehensive IT support services, from Help Desk and Remote Technical Support to On-Site assistance and Proactive Maintenance. With 24/7 availability and a dedicated team, minimize downtime and optimize your IT environment for seamless business operations.
+
+
+"
 # save as draft
 draft: false
 ---
