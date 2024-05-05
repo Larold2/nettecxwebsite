@@ -2,7 +2,7 @@
 # Banner
 banner:
   title: "Keeping your business technology in sync"
-  content: "Every company possesses its own unique tech setup, but as your business grows, so does the complexity of your technology. NETTECX IT Services, based in Minneapolis, Minnesota, delivers extensive IT support and consultation designed specifically for the needs of small and medium-sized businesses (SMBs) on local, regional, national, and global scales."
+  content: "Welcome to NETTECX, your premier destination for expert IT services and consulting. With a focus on innovation and efficiency, we specialize in tailoring solutions to propel your business forward in the digital era. From optimizing IT infrastructure to bolstering cybersecurity, we're here to guide you to success. Partner with us to unlock your technology's full potential and drive sustainable growth."
   image: "/images/banner.png"
   button:
     enable: true
